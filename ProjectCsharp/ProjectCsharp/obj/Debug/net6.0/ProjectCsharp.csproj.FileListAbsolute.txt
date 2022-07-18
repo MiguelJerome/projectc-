@@ -1,0 +1,15 @@
+C:\projectc#\ProjectCsharp\ProjectCsharp\bin\Debug\net6.0\ProjectCsharp.exe
+C:\projectc#\ProjectCsharp\ProjectCsharp\bin\Debug\net6.0\ProjectCsharp.deps.json
+C:\projectc#\ProjectCsharp\ProjectCsharp\bin\Debug\net6.0\ProjectCsharp.runtimeconfig.json
+C:\projectc#\ProjectCsharp\ProjectCsharp\bin\Debug\net6.0\ProjectCsharp.dll
+C:\projectc#\ProjectCsharp\ProjectCsharp\bin\Debug\net6.0\ProjectCsharp.pdb
+C:\projectc#\ProjectCsharp\ProjectCsharp\obj\Debug\net6.0\ProjectCsharp.csproj.AssemblyReference.cache
+C:\projectc#\ProjectCsharp\ProjectCsharp\obj\Debug\net6.0\ProjectCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projectc#\ProjectCsharp\ProjectCsharp\obj\Debug\net6.0\ProjectCsharp.AssemblyInfoInputs.cache
+C:\projectc#\ProjectCsharp\ProjectCsharp\obj\Debug\net6.0\ProjectCsharp.AssemblyInfo.cs
+C:\projectc#\ProjectCsharp\ProjectCsharp\obj\Debug\net6.0\ProjectCsharp.csproj.CoreCompileInputs.cache
+C:\projectc#\ProjectCsharp\ProjectCsharp\obj\Debug\net6.0\ProjectCsharp.dll
+C:\projectc#\ProjectCsharp\ProjectCsharp\obj\Debug\net6.0\refint\ProjectCsharp.dll
+C:\projectc#\ProjectCsharp\ProjectCsharp\obj\Debug\net6.0\ProjectCsharp.pdb
+C:\projectc#\ProjectCsharp\ProjectCsharp\obj\Debug\net6.0\ProjectCsharp.genruntimeconfig.cache
+C:\projectc#\ProjectCsharp\ProjectCsharp\obj\Debug\net6.0\ref\ProjectCsharp.dll
